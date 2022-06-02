@@ -1,2 +1,6 @@
 # rsschool-cv
-Task: https://github.com/KarbozovDamir/rsschool-cv/blob/gh-pages/cv.md
+
+# CV#1. Markdown & Git
+
+###  [https://KarbozovDamir.github.io/rsschool-cv/cv](https://KarbozovDamir.github.io/rsschool-cv/cv)
+
