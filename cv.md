@@ -29,28 +29,37 @@ I am passionate about learning new technology and I would like to have experienc
 - Code Editor:  **VS Code, Sublime Text**
 - Version Control Systems: **Git, GitHub**
 - Methodologies: **Agile, Scrum**
+
 ---
 
 ### WORK EXPERIENCE
 
 * Since 2022 - Software Engineer, alem school, Kazakhstan;
-> Tasks performed:<br>
-I`m working in the team on several projects into the school around frontend and backend, manage students for efective study, conduct interviews with potential students.
+
+I am working in the team on several projects into the school around frontend and backend, manage students for efective study, conduct interviews with potential students.
 
 * 2012 - 2019 - Engineer category 2 high voltage test group, KEGOC, Kazakhstan;<br>
-> Tasks performed:<br>
-1. Tested oil-filled high voltage power equipment;<br>
-2. Analyzed the technical condition of electrical
+
+Tested oil-filled high voltage power equipment;<br>
+Analyzed the technical condition of electrical
 equipment on fulfilled service life;
 
 ---
-### EDUCATION
-> Name of the Education Establishment: Al-Farabi Kazakh National University;<br>
-> Degree (Diploma): Master of Technics and Technologies;<br>
-> Specialty: Thermal Power Engineering
-### Code example of JavaScript:
 
-**Quarter of the year - Given a month as an integer from 1 to 12, return to which quarter of the year it belongs as an integer number.**
+### EDUCATION
+* (08/2016 - 03/2018) Al-Farabi Kazakh National University<br>
+ Degree (Diploma): Master of Technics and Technologies<br>
+ Specialty: Thermal Power Engineering
+
+* (08/2009 - 07/2013) Almaty University of Power Engineering and
+Telecommunications<br>
+Degree (Diploma): Bachelor of Technics and Technologies<br>
+Specialty: Power engineering
+
+---
+
+### Code example of JavaScript:
+**Quarter of the year**
 ```JavaScript
 const quarterOf = (month) => {
  if(month < 4) return 1;
