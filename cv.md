@@ -20,7 +20,7 @@ I am passionate about learning new technology and I would like to have experienc
 ---
 
 ### Technical Skills:
-- Languages: **English - Pre-Intermediate | Kazakh - Native | Russian - Fluent**
+- Languages: English - Pre-Intermediate | Kazakh - Native | Russian - Fluent
 - Programming Lang: **Golang, JavaScript**
 - Databases: **PostgreSQL, MySQL**
 - Web technologies: **HTML5, CSS3**
