@@ -1,6 +1,7 @@
 # rsschool-cv
 
-# CV#1. Markdown & Git
+# CV#2. HTML, CSS & Git Basics
 
-###  [https://KarbozovDamir.github.io/rsschool-cv/cv](https://KarbozovDamir.github.io/rsschool-cv/cv)
+###  [https://KarbozovDamir.github.io/rsschool-cv/](https://KarbozovDamir.github.io/rsschool-cv/)
+
 
